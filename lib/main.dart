@@ -20,7 +20,7 @@ class LiveChatApp extends StatefulWidget {
 class _LiveChatAppState extends State<LiveChatApp> {
   final _msgCtrl = TextEditingController();
   final _nameCtrl = TextEditingController();
-  int _likes = 61400;
+  int _likes = 61401;
   bool _isFirebaseReady = false;
 
   @override
